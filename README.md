@@ -1,5 +1,5 @@
 # Heart-Disease-Classification-Study
-The aim of this project is to use various classification methods to predict the presence of heart disease using health and other attributes of patients.
+The aim of this project is to use various classification methods to predict the presence of heart disease using health and other attributes of patients. Accuracy is important in health-related problems and hence multiple classification techniques are tested for performance.
 
 I made this project specifically for a Business Intelligence and Analytics poster presentation event at Stevens Institute of technology, Hoboken, NJ,
 
